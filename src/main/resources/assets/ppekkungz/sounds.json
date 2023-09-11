@@ -1,0 +1,239 @@
+{
+  "life_01": {
+    "sounds": [
+      "ppekkungz:life01"
+    ]
+  },
+  "life_02": {
+    "sounds": [
+      "ppekkungz:life02"
+    ]
+  },
+  "life_03": {
+    "sounds": [
+      "ppekkungz:life03"
+    ]
+  },
+  "life_04": {
+    "sounds": [
+      "ppekkungz:life04"
+    ]
+  },
+  "eeboom": {
+    "sounds": [
+      "ppekkungz:eeboom"
+    ]
+  },
+  "eefly": {
+    "sounds": [
+      "ppekkungz:eefly"
+    ]
+  },
+  "eephone": {
+    "sounds": [
+      "ppekkungz:eephone"
+    ]
+  },
+  "eefinal": {
+    "sounds": [
+      "ppekkungz:eefinal"
+    ]
+  },
+  "eefinalboom": {
+    "sounds": [
+      "ppekkungz:eefinalboom"
+    ]
+  },
+  "buddies": {
+    "sounds": [
+      {
+        "name": "ppekkungz:buddies_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "ost_fsc": {
+    "sounds": [
+      {
+        "name": "ppekkungz:ost_fsc_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "mysterious": {
+    "sounds": [
+      {
+        "name": "ppekkungz:mysterious_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "why_cover": {
+    "sounds": [
+      {
+        "name": "ppekkungz:why_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "buddies_one": {
+    "sounds": [
+      {
+        "name": "ppekkungz:buddies_one_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "again_ost": {
+    "sounds": [
+      {
+        "name": "ppekkungz:again_ost_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "adventuretheme": {
+    "sounds": [
+      {
+        "name": "ppekkungz:adventuretheme_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "alomewithmythoughts": {
+    "sounds": [
+      {
+        "name": "ppekkungz:alonewithmythoughts_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "anewbeginning": {
+    "sounds": [
+      {
+        "name": "ppekkungz:anewbeginning_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "batuquebom": {
+    "sounds": [
+      {
+        "name": "ppekkungz:batuquebom_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "cartoonbankheist": {
+    "sounds": [
+      {
+        "name": "ppekkungz:cartoonbankheist_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "fruitsoflife": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fruitsoflife_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "glorytothegardener": {
+    "sounds": [
+      {
+        "name": "ppekkungz:glorytothegardener_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "inmydreams": {
+    "sounds": [
+      {
+        "name": "ppekkungz:inmydreams_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "manjkhammaj": {
+    "sounds": [
+      {
+        "name": "ppekkungz:manjkhammaj_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "patrioticmarch": {
+    "sounds": [
+      {
+        "name": "ppekkungz:patrioticmarch_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "pluckandplay": {
+    "sounds": [
+      {
+        "name": "ppekkungz:pluckandplay_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "spazzcardigan": {
+    "sounds": [
+      {
+        "name": "ppekkungz:spazzcardigan_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "thecchoonerthebetter": {
+    "sounds": [
+      {
+        "name": "ppekkungz:thecchoonerthebetter_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "thecuriouskitten": {
+    "sounds": [
+      {
+        "name": "ppekkungz:thecuriouskitten_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "thedayimether": {
+    "sounds": [
+      {
+        "name": "ppekkungz:thedayimether_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "viewofthevalley": {
+    "sounds": [
+      {
+        "name": "ppekkungz:viewofthevalley_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "wayoutwest": {
+    "sounds": [
+      {
+        "name": "ppekkungz:wayoutwest_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "yyourlove": {
+    "sounds": [
+      {
+        "name": "ppekkungz:yyourlove_music_sound",
+        "stream": true
+      }
+    ]
+  }
+}
