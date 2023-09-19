@@ -12,12 +12,16 @@ import net.ppekkungz.PPSoundsUtils;
 
 public class FcSoundRegistries {
 
-    public static final Item WHY_SONG = registerItem("music_disc_why_cover", "why_cover", 150, 6);
-    public static final Item MYSTERIOUS_SONG = registerItem("music_disc_mysterious", "mysterious", 85, 6);
-    public static final Item BUDDIES_SONG = registerItem("music_disc_buddies", "buddies", 267, 6);
-    public static final Item OST_FSC_SONG = registerItem("music_disc_ost_fsc", "ost_fsc", 187, 6);
-    public static final Item BUDDIES_ONE_SONG = registerItem("music_disc_buddies_one", "buddies_one", 185, 6);
-    public static final Item AGAIN_OST_SONG = registerItem("music_disc_again_ost", "again_ost", 78, 6);
+    public static final Item WHY_SONG = registerItem("music_disc_why_cover", "why_cover", 155, 6);
+    public static final Item MYSTERIOUS_SONG = registerItem("music_disc_mysterious", "mysterious", 90, 6);
+    public static final Item BUDDIES_SONG = registerItem("music_disc_buddies", "buddies", 270, 6);
+    public static final Item OST_FSC_SONG = registerItem("music_disc_ost_fsc", "ost_fsc", 190, 6);
+    public static final Item BUDDIES_ONE_SONG = registerItem("music_disc_buddies_one", "buddies_one", 190, 6);
+    public static final Item AGAIN_OST_SONG = registerItem("music_disc_again_ost", "again_ost", 80, 6);
+    public static final Item TIIDTIIW_SONG = registerItem("music_disc_tiidtiiw", "tiidtiiw", 230, 6);
+    public static final Item THAMNOY_SONG = registerItem("music_disc_thamnoy", "thamnoy", 230, 6);
+    public static final Item LUVYOUTWENTYFOURH_SONG = registerItem("music_disc_luvyoutwentyfourh", "luvyoutwentyfourh", 225, 6);
+    public static final Item JULY_SONG = registerItem("music_disc_july", "july", 190, 6);
     public static final Item ADVENTURETHEME_SONG = registerItem("music_disc_adventuretheme", "adventuretheme", 146, 6);
     public static final Item ALONEWITHMYTHOUGHTS_SONG = registerItem("music_disc_alomewithmythoughts", "alomewithmythoughts", 133, 6);
     public static final Item ANEWBEGINNING_SONG = registerItem("music_disc_anewbeginning", "anewbeginning", 136, 6);

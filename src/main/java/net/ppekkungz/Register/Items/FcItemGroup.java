@@ -23,6 +23,10 @@ public class FcItemGroup {
                 output.accept(FcSoundRegistries.OST_FSC_SONG);
                 output.accept(FcSoundRegistries.BUDDIES_ONE_SONG);
                 output.accept(FcSoundRegistries.AGAIN_OST_SONG);
+                output.accept(FcSoundRegistries.TIIDTIIW_SONG);
+                output.accept(FcSoundRegistries.THAMNOY_SONG);
+                output.accept(FcSoundRegistries.JULY_SONG);
+                output.accept(FcSoundRegistries.LUVYOUTWENTYFOURH_SONG);
                 output.accept(FcSoundRegistries.ADVENTURETHEME_SONG);
                 output.accept(FcSoundRegistries.ALONEWITHMYTHOUGHTS_SONG);
                 output.accept(FcSoundRegistries.ANEWBEGINNING_SONG);

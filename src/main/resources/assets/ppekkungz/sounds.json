@@ -44,6 +44,36 @@
       "ppekkungz:eefinalboom"
     ]
   },
+  "decadeattackride": {
+    "sounds": [
+      "ppekkungz:decadeattackride"
+    ]
+  },
+  "decadeattackrideblast": {
+    "sounds": [
+      "ppekkungz:decadeattackrideblast"
+    ]
+  },
+  "decadeattackrideslash": {
+    "sounds": [
+      "ppekkungz:decadeattackrideslash"
+    ]
+  },
+  "decadehenshin": {
+    "sounds": [
+      "ppekkungz:decadehenshin"
+    ]
+  },
+  "decadeinvisible": {
+    "sounds": [
+      "ppekkungz:decadeinvisible"
+    ]
+  },
+  "decadek_touchcompleteformhenshin": {
+    "sounds": [
+      "ppekkungz:decadek_touchcompleteformhenshin"
+    ]
+  },
   "buddies": {
     "sounds": [
       {
@@ -88,6 +118,38 @@
     "sounds": [
       {
         "name": "ppekkungz:again_ost_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "tiidtiiw": {
+    "sounds": [
+      {
+        "name": "ppekkungz:tiidtiiw_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "thamnoy": {
+    "sounds": [
+      {
+        "name": "ppekkungz:thamnoy_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "luvyoutwentyfourh": {
+    "sounds": [
+      {
+        "name": "ppekkungz:luvyoutwentyfourh_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "july": {
+    "sounds": [
+      {
+        "name": "ppekkungz:july_music_sound",
         "stream": true
       }
     ]
