@@ -22,6 +22,7 @@ public class FcSoundRegistries {
     public static final Item THAMNOY_SONG = registerItem("music_disc_thamnoy", "thamnoy", 230, 6);
     public static final Item LUVYOUTWENTYFOURH_SONG = registerItem("music_disc_luvyoutwentyfourh", "luvyoutwentyfourh", 225, 6);
     public static final Item JULY_SONG = registerItem("music_disc_july", "july", 190, 6);
+    ////////////////// LIFE  ///////////////////
     public static final Item ADVENTURETHEME_SONG = registerItem("music_disc_adventuretheme", "adventuretheme", 146, 6);
     public static final Item ALONEWITHMYTHOUGHTS_SONG = registerItem("music_disc_alomewithmythoughts", "alomewithmythoughts", 133, 6);
     public static final Item ANEWBEGINNING_SONG = registerItem("music_disc_anewbeginning", "anewbeginning", 136, 6);
@@ -40,6 +41,18 @@ public class FcSoundRegistries {
     public static final Item VIEWOFTHEVALLEY_SONG = registerItem("music_disc_viewofthevalley", "viewofthevalley", 84, 6);
     public static final Item WAYOUTWEST_SONG = registerItem("music_disc_wayoutwest", "wayoutwest", 152, 6);
     public static final Item YYOURLOVE_SONG = registerItem("music_disc_yyourlove", "yyourlove", 133, 6);
+    ////////////////// LIFE ///////////////////
+    ////////////////// WATER ///////////////////
+    public static final Item WATER_01 = registerItem("music_disc_aalaap_in_raag_jhinjhoti", "aalaap_in_raag_jhinjhoti", 180, 6);
+    public static final Item WATER_02 = registerItem("music_disc_calmcam_tracktribe", "calmcam_tracktribe", 240, 6);
+    public static final Item WATER_03 = registerItem("music_disc_dovelove_quincasmoreira", "dovelove_quincasmoreira", 180, 6);
+    public static final Item WATER_04 = registerItem("music_disc_hanudixit", "hanudixit", 150, 6);
+    public static final Item WATER_05 = registerItem("music_disc_lawrence_tracktribe", "lawrence_tracktribe", 240, 6);
+    public static final Item WATER_06 = registerItem("music_disc_oholynight_djwilliams", "oholynight_djwilliams", 110, 6);
+    public static final Item WATER_07 = registerItem("music_disc_raagpilu", "raagpilu", 185, 6);
+    public static final Item WATER_08 = registerItem("music_disc_savior", "savior", 160, 6);
+    public static final Item WATER_09 = registerItem("music_disc_societysdream", "societysdream", 140, 6);
+    ////////////////// WATER ///////////////////
 
     private static Item registerItem(String item, String sound_file, int duration, int analog) {
         ResourceLocation id_sound = new ResourceLocation("ppekkungz", sound_file);

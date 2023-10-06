@@ -45,6 +45,15 @@ public class FcItemGroup {
                 output.accept(FcSoundRegistries.VIEWOFTHEVALLEY_SONG);
                 output.accept(FcSoundRegistries.WAYOUTWEST_SONG);
                 output.accept(FcSoundRegistries.YYOURLOVE_SONG);
+                output.accept(FcSoundRegistries.WATER_01);
+                output.accept(FcSoundRegistries.WATER_02);
+                output.accept(FcSoundRegistries.WATER_03);
+                output.accept(FcSoundRegistries.WATER_04);
+                output.accept(FcSoundRegistries.WATER_05);
+                output.accept(FcSoundRegistries.WATER_06);
+                output.accept(FcSoundRegistries.WATER_07);
+                output.accept(FcSoundRegistries.WATER_08);
+                output.accept(FcSoundRegistries.WATER_09);
             })
             .build());
 
