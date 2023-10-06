@@ -54,6 +54,11 @@ public class FcItemGroup {
                 output.accept(FcSoundRegistries.WATER_07);
                 output.accept(FcSoundRegistries.WATER_08);
                 output.accept(FcSoundRegistries.WATER_09);
+                output.accept(FcSoundRegistries.WATER_10);
+                output.accept(FcSoundRegistries.WATER_11);
+                output.accept(FcSoundRegistries.WATER_12);
+                output.accept(FcSoundRegistries.WATER_13);
+                output.accept(FcSoundRegistries.WATER_14);
             })
             .build());
 

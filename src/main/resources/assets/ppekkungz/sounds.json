@@ -186,10 +186,66 @@
       }
     ]
   },
+  "emeraldseas": {
+    "sounds": [
+      {
+        "name": "ppekkungz:emeraldseas_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "ihadafeeling": {
+    "sounds": [
+      {
+        "name": "ppekkungz:ihadafeeling_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "islandcoconuts": {
+    "sounds": [
+      {
+        "name": "ppekkungz:islandcoconuts_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "peachy_half_cool": {
+    "sounds": [
+      {
+        "name": "ppekkungz:peachy_half_cool_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "sharpedges_half_cool": {
+    "sounds": [
+      {
+        "name": "ppekkungz:sharpedges_half_cool_music_sound",
+        "stream": true
+      }
+    ]
+  },
   "societysdream": {
     "sounds": [
       {
         "name": "ppekkungz:societysdream_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "dms_01": {
+    "sounds": [
+      {
+        "name": "ppekkungz:dms_01",
+        "stream": true
+      }
+    ]
+  },
+  "dms_02": {
+    "sounds": [
+      {
+        "name": "ppekkungz:dms_02",
         "stream": true
       }
     ]

@@ -52,8 +52,15 @@ public class FcSoundRegistries {
     public static final Item WATER_07 = registerItem("music_disc_raagpilu", "raagpilu", 185, 6);
     public static final Item WATER_08 = registerItem("music_disc_savior", "savior", 160, 6);
     public static final Item WATER_09 = registerItem("music_disc_societysdream", "societysdream", 140, 6);
+    public static final Item WATER_10 = registerItem("music_disc_emeraldseas", "emeraldseas", 100, 6);
+    public static final Item WATER_11 = registerItem("music_disc_ihadafeeling", "ihadafeeling", 330, 6);
+    public static final Item WATER_12 = registerItem("music_disc_islandcoconuts", "islandcoconuts", 145, 6);
+    public static final Item WATER_13 = registerItem("music_disc_peachy_half_cool", "peachy_half_cool", 105, 6);
+    public static final Item WATER_14 = registerItem("music_disc_sharpedges_half_cool", "sharpedges_half_cool", 153, 6);
     ////////////////// WATER ///////////////////
 
+    public static final Item DMS_01 = registerItem("music_disc_dms_01", "dms_01", 153, 6);
+    public static final Item DMS_02 = registerItem("music_disc_dms_02", "dms_02", 153, 6);
     private static Item registerItem(String item, String sound_file, int duration, int analog) {
         ResourceLocation id_sound = new ResourceLocation("ppekkungz", sound_file);
         SoundEvent sound = Registry.register(BuiltInRegistries.SOUND_EVENT, id_sound, SoundEvent.createVariableRangeEvent(id_sound));
