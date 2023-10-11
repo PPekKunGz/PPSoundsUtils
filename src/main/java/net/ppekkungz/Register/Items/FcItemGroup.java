@@ -58,7 +58,22 @@ public class FcItemGroup {
                 output.accept(FcSoundRegistries.WATER_11);
                 output.accept(FcSoundRegistries.WATER_12);
                 output.accept(FcSoundRegistries.WATER_13);
-                output.accept(FcSoundRegistries.WATER_14);
+                output.accept(FcSoundRegistries.LIFE_BYTHEFIREPLACE_SONG);
+                output.accept(FcSoundRegistries.LIFE_CALCAM_SONG);
+                output.accept(FcSoundRegistries.LIFE_CONFIDENTKURT_SONG);
+                output.accept(FcSoundRegistries.LIFE_FINEDINING_SONG);
+                output.accept(FcSoundRegistries.LIFE_IHAVEARESERVAATION_SONG);
+                output.accept(FcSoundRegistries.LIFE_JANESTREET_SONG);
+                output.accept(FcSoundRegistries.LIFE_LOSTLOUNGE_SONG);
+                output.accept(FcSoundRegistries.LIFE_MEMBERONLY_SONG);
+                output.accept(FcSoundRegistries.LIFE_ONTHEROCKS_SONG);
+                output.accept(FcSoundRegistries.LIFE_PUTIT_SONG);
+                output.accept(FcSoundRegistries.LIFE_RUNNINGERRANDS_SONG);
+                output.accept(FcSoundRegistries.LIFE_SMOKEJACKETBLUES_SONG);
+                output.accept(FcSoundRegistries.LIFE_SQUIRMWORM_SONG);
+                output.accept(FcSoundRegistries.LIFE_STROLLIN_SONG);
+                output.accept(FcSoundRegistries.LIFE_THETHOUGHTOFUOU_SONG);
+                output.accept(FcSoundRegistries.LIFE_WISHYOUDNEVERLEFT_SONG);
             })
             .build());
 

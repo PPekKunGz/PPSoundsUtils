@@ -42,6 +42,25 @@ public class FcSoundRegistries {
     public static final Item WAYOUTWEST_SONG = registerItem("music_disc_wayoutwest", "wayoutwest", 152, 6);
     public static final Item YYOURLOVE_SONG = registerItem("music_disc_yyourlove", "yyourlove", 133, 6);
     ////////////////// LIFE ///////////////////
+    ////////////////// LIFE 02 ///////////////////
+    public static final Item LIFE_BYTHEFIREPLACE_SONG = registerItem("music_disc_life_bythefireplace_tracktribe", "life_bythefireplace", 252, 6);
+    public static final Item LIFE_CALCAM_SONG = registerItem("music_disc_life_calmcam_tracktribe", "life_calmcam", 240, 6);
+    public static final Item LIFE_CONFIDENTKURT_SONG = registerItem("music_disc_life_confidentkurt_tracktribe", "life_confidentkurt", 195, 6);
+    public static final Item LIFE_FINEDINING_SONG = registerItem("music_disc_life_finedining_tracktribe", "life_finedining", 190, 6);
+    public static final Item LIFE_IHAVEARESERVAATION_SONG = registerItem("music_disc_life_ihaveareservation_tracktribe", "life_ihaveareservation", 135, 6);
+    public static final Item LIFE_JANESTREET_SONG = registerItem("music_disc_life_janestreet_tracktribe", "life_janestreet", 195, 6);
+    public static final Item LIFE_LOSTLOUNGE_SONG = registerItem("music_disc_life_lostlounge_tracktribe", "life_lostlounge", 245, 6);
+    public static final Item LIFE_MEMBERONLY_SONG = registerItem("music_disc_life_membersonly_tracktribe", "life_membersonly", 185, 6);
+    public static final Item LIFE_ONTHEROCKS_SONG = registerItem("music_disc_life_ontherocks_tracktribe", "life_ontherocks", 205, 6);
+    public static final Item LIFE_PUTIT_SONG = registerItem("music_disc_life_putit_tracktribe", "life_putit", 200, 6);
+    public static final Item LIFE_RUNNINGERRANDS_SONG = registerItem("music_disc_life_runningerrands_tracktribe", "life_runningerrands", 260, 6);
+    public static final Item LIFE_SMOKEJACKETBLUES_SONG = registerItem("music_disc_life_smokejacketblues_tracktribe", "life_smokejacketblues", 150, 6);
+    public static final Item LIFE_SQUIRMWORM_SONG = registerItem("music_disc_life_squirmworm_tracktribe", "life_squirmworm", 205, 6);
+    public static final Item LIFE_STROLLIN_SONG = registerItem("music_disc_life_strollin_tracktribe", "life_strollin", 185, 6);
+    public static final Item LIFE_THETHOUGHTOFUOU_SONG = registerItem("music_disc_life_thethoughtofuou_tracktribe", "life_thethoughtofuou", 250, 6);
+    public static final Item LIFE_WISHYOUDNEVERLEFT_SONG = registerItem("music_disc_life_wishyoudneverleft_tracktribe", "life_wishyoudneverleft", 305, 6);
+
+    ////////////////// LIFE 02 ///////////////////
     ////////////////// WATER ///////////////////
     public static final Item WATER_01 = registerItem("music_disc_aalaap_in_raag_jhinjhoti", "aalaap_in_raag_jhinjhoti", 180, 6);
     public static final Item WATER_02 = registerItem("music_disc_calmcam_tracktribe", "calmcam_tracktribe", 240, 6);
@@ -61,6 +80,7 @@ public class FcSoundRegistries {
 
     public static final Item DMS_01 = registerItem("music_disc_dms_01", "dms_01", 153, 6);
     public static final Item DMS_02 = registerItem("music_disc_dms_02", "dms_02", 153, 6);
+    public static final Item DMS_03 = registerItem("music_disc_dms_03", "dms_03", 204, 6);
     private static Item registerItem(String item, String sound_file, int duration, int analog) {
         ResourceLocation id_sound = new ResourceLocation("ppekkungz", sound_file);
         SoundEvent sound = Registry.register(BuiltInRegistries.SOUND_EVENT, id_sound, SoundEvent.createVariableRangeEvent(id_sound));

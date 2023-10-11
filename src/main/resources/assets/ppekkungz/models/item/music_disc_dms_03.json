@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "ppekkungz:item/music_disc_dms"
+  }
+}
