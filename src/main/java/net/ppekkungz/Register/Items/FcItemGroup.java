@@ -74,6 +74,25 @@ public class FcItemGroup {
                 output.accept(FcSoundRegistries.LIFE_STROLLIN_SONG);
                 output.accept(FcSoundRegistries.LIFE_THETHOUGHTOFUOU_SONG);
                 output.accept(FcSoundRegistries.LIFE_WISHYOUDNEVERLEFT_SONG);
+                output.accept(FcSoundRegistries.LIFE_JIMENACONTRERAS_SONG);
+                output.accept(FcSoundRegistries.LIFE_JOSEFSUKSERENADEOP6_SONG);
+                output.accept(FcSoundRegistries.LIFE_MOZARTSYMPHONYNO_SONG);
+                output.accept(FcSoundRegistries.HALLO_01);
+                output.accept(FcSoundRegistries.HALLO_02);
+                output.accept(FcSoundRegistries.HALLO_03);
+                output.accept(FcSoundRegistries.HALLO_04);
+                output.accept(FcSoundRegistries.HALLO_05);
+                output.accept(FcSoundRegistries.HALLO_06);
+                output.accept(FcSoundRegistries.HALLO_07);
+                output.accept(FcSoundRegistries.HALLO_08);
+                output.accept(FcSoundRegistries.HALLO_09);
+                output.accept(FcSoundRegistries.HALLO_10);
+                output.accept(FcSoundRegistries.HALLO_11);
+                output.accept(FcSoundRegistries.HALLO_12);
+                output.accept(FcSoundRegistries.HALLO_13);
+                output.accept(FcSoundRegistries.HALLO_14);
+                output.accept(FcSoundRegistries.HALLO_15);
+                output.accept(FcSoundRegistries.HALLO_16);
             })
             .build());
 

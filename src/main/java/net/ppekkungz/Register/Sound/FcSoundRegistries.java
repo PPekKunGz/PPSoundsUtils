@@ -59,6 +59,9 @@ public class FcSoundRegistries {
     public static final Item LIFE_STROLLIN_SONG = registerItem("music_disc_life_strollin_tracktribe", "life_strollin", 185, 6);
     public static final Item LIFE_THETHOUGHTOFUOU_SONG = registerItem("music_disc_life_thethoughtofuou_tracktribe", "life_thethoughtofuou", 250, 6);
     public static final Item LIFE_WISHYOUDNEVERLEFT_SONG = registerItem("music_disc_life_wishyoudneverleft_tracktribe", "life_wishyoudneverleft", 305, 6);
+    public static final Item LIFE_JIMENACONTRERAS_SONG = registerItem("music_disc_life_jimenacontreras", "life_jimenacontreras", 160, 6);
+    public static final Item LIFE_JOSEFSUKSERENADEOP6_SONG = registerItem("music_disc_life_josefsukserenadeop6", "life_josefsukserenadeop6", 1572, 6);
+    public static final Item LIFE_MOZARTSYMPHONYNO_SONG = registerItem("music_disc_life_mozartsymphonyno", "life_mozartsymphonyno", 1872, 6);
 
     ////////////////// LIFE 02 ///////////////////
     ////////////////// WATER ///////////////////
@@ -77,7 +80,24 @@ public class FcSoundRegistries {
     public static final Item WATER_13 = registerItem("music_disc_peachy_half_cool", "peachy_half_cool", 105, 6);
     public static final Item WATER_14 = registerItem("music_disc_sharpedges_half_cool", "sharpedges_half_cool", 153, 6);
     ////////////////// WATER ///////////////////
-
+    ////////////////// HALLOWEEN ///////////////////
+    public static final Item HALLO_01 = registerItem("music_disc_coyotehearing", "coyotehearing", 95, 6);
+    public static final Item HALLO_02 = registerItem("music_disc_englishcountrygarden", "englishcountrygarden", 100, 6);
+    public static final Item HALLO_03 = registerItem("music_disc_esjammyjams", "esjammyjams", 158, 6);
+    public static final Item HALLO_04 = registerItem("music_disc_ha_cxdy", "ha_cxdy", 162, 6);
+    public static final Item HALLO_05 = registerItem("music_disc_happyhaunts", "happyhaunts", 130, 6);
+    public static final Item HALLO_06 = registerItem("music_disc_horsestrains", "horsestrains", 153, 6);
+    public static final Item HALLO_07 = registerItem("music_disc_magicaldirt", "magicaldirt", 140, 6);
+    public static final Item HALLO_08 = registerItem("music_disc_magicalgravity", "magicalgravity", 188, 6);
+    public static final Item HALLO_09 = registerItem("music_disc_magicaltriumph", "magicaltriumph", 165, 6);
+    public static final Item HALLO_10 = registerItem("music_disc_orphan", "orphan", 160, 6);
+    public static final Item HALLO_11 = registerItem("music_disc_pooka", "pooka", 115, 6);
+    public static final Item HALLO_12 = registerItem("music_disc_readysetgo", "readysetgo", 140, 6);
+    public static final Item HALLO_13 = registerItem("music_disc_rightnow", "rightnow", 115, 6);
+    public static final Item HALLO_14 = registerItem("music_disc_theneworder", "theneworder", 110, 6);
+    public static final Item HALLO_15 = registerItem("music_disc_tropicalthunder", "tropicalthunder", 152, 6);
+    public static final Item HALLO_16 = registerItem("music_disc_waltztodeath", "waltztodeath", 158, 6);
+    ////////////////// HALLOWEEN ///////////////////
     public static final Item DMS_01 = registerItem("music_disc_dms_01", "dms_01", 153, 6);
     public static final Item DMS_02 = registerItem("music_disc_dms_02", "dms_02", 153, 6);
     public static final Item DMS_03 = registerItem("music_disc_dms_03", "dms_03", 204, 6);

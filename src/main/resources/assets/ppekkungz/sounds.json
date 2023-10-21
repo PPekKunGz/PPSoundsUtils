@@ -561,5 +561,157 @@
         "stream": true
       }
     ]
+  },
+  "life_jimenacontreras": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_jimenacontreras_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life_josefsukserenadeop6": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_josefsukserenadeop6_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life_mozartsymphonyno": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_mozartsymphonyno_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "coyotehearing": {
+    "sounds": [
+      {
+        "name": "ppekkungz:coyotehearing_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "englishcountrygarden": {
+    "sounds": [
+      {
+        "name": "ppekkungz:englishcountrygarden_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "esjammyjams": {
+    "sounds": [
+      {
+        "name": "ppekkungz:esjammyjams_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "ha_cxdy": {
+    "sounds": [
+      {
+        "name": "ppekkungz:ha_cxdy_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "happyhaunts": {
+    "sounds": [
+      {
+        "name": "ppekkungz:happyhaunts_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "horsestrains": {
+    "sounds": [
+      {
+        "name": "ppekkungz:horsestrains_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "magicaldirt": {
+    "sounds": [
+      {
+        "name": "ppekkungz:magicaldirt_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "magicalgravity": {
+    "sounds": [
+      {
+        "name": "ppekkungz:magicalgravity_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "magicaltriumph": {
+    "sounds": [
+      {
+        "name": "ppekkungz:magicaltriumph_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "orphan": {
+    "sounds": [
+      {
+        "name": "ppekkungz:orphan_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "pooka": {
+    "sounds": [
+      {
+        "name": "ppekkungz:pooka_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "readysetgo": {
+    "sounds": [
+      {
+        "name": "ppekkungz:readysetgo_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "rightnow": {
+    "sounds": [
+      {
+        "name": "ppekkungz:rightnow_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "theneworder": {
+    "sounds": [
+      {
+        "name": "ppekkungz:theneworder_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "tropicalthunder": {
+    "sounds": [
+      {
+        "name": "ppekkungz:tropicalthunder_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "waltztodeath": {
+    "sounds": [
+      {
+        "name": "ppekkungz:waltztodeath_music_sound",
+        "stream": true
+      }
+    ]
   }
 }
