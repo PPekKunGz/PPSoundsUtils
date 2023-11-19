@@ -98,6 +98,45 @@ public class FcSoundRegistries {
     public static final Item HALLO_15 = registerItem("music_disc_tropicalthunder", "tropicalthunder", 152, 6);
     public static final Item HALLO_16 = registerItem("music_disc_waltztodeath", "waltztodeath", 158, 6);
     ////////////////// HALLOWEEN ///////////////////
+    ////////////////// CHRISTMAS ///////////////////
+    public static final Item CHRIST_01 = registerItem("music_disc_centralpark", "centralpark", 148, 6);
+    public static final Item CHRIST_02 = registerItem("music_disc_christmashomecoming", "christmashomecoming", 132, 6);
+    public static final Item CHRIST_03 = registerItem("music_disc_christmasvillage", "christmasvillage", 94, 6);
+    public static final Item CHRIST_04 = registerItem("music_disc_joytotheworld", "joytotheworld", 130, 6);
+    public static final Item CHRIST_05 = registerItem("music_disc_ocomeallyefaithful", "ocomeallyefaithful", 212, 6);
+
+    ////////////////// CHRISTMAS ///////////////////
+    ////////////////// SOUND ///////////////////
+    public static final Item SOUND_01 = registerItem("music_disc_sound_babneeniang", "babneeniang", 152, 6);
+    public static final Item SOUND_02 = registerItem("music_disc_sound_bigwatch", "bigwatch", 184, 6);
+    public static final Item SOUND_03 = registerItem("music_disc_sound_chanyungwai", "chanyungwai", 198, 6);
+    public static final Item SOUND_04 = registerItem("music_disc_sound_chiwidterdeeyulaw", "chiwidterdeeyulaw", 215, 6);
+    public static final Item SOUND_05 = registerItem("music_disc_sound_choptherlawmunpidmai", "choptherlawmunpidmai", 220, 6);
+    public static final Item SOUND_06 = registerItem("music_disc_sound_choptherna", "choptherna", 284, 6);
+    public static final Item SOUND_07 = registerItem("music_disc_sound_enhypen_shoutout", "enhypen_shoutout", 234, 6);
+    public static final Item SOUND_08 = registerItem("music_disc_sound_flow_sing", "flow_sing", 242, 6);
+    public static final Item SOUND_09 = registerItem("music_disc_sound_jaojai", "jaojai", 205, 6);
+    public static final Item SOUND_10 = registerItem("music_disc_sound_keapungneemaimerao", "keapungneemaimerao", 282, 6);
+    public static final Item SOUND_11 = registerItem("music_disc_sound_konmaikui", "konmaikui", 185, 6);
+    public static final Item SOUND_12 = registerItem("music_disc_sound_korphunmunnarak", "korphunmunnarak", 208, 6);
+    public static final Item SOUND_13 = registerItem("music_disc_sound_kwajadairuk", "kwajadairuk", 232, 6);
+    public static final Item SOUND_14 = registerItem("music_disc_sound_meyou_todayofyear", "meyou_todayofyear", 235, 6);
+    public static final Item SOUND_15 = registerItem("music_disc_sound_millionmirror", "millionmirror", 208, 6);
+    public static final Item SOUND_16 = registerItem("music_disc_sound_nolastenternity", "nolastenternity", 128, 6);
+    public static final Item SOUND_17 = registerItem("music_disc_sound_notbad", "notbad", 202, 6);
+    public static final Item SOUND_18 = registerItem("music_disc_sound_pidpak", "pidpak", 223, 6);
+    public static final Item SOUND_19 = registerItem("music_disc_sound_pyschogram", "pyschogram", 228, 6);
+    public static final Item SOUND_20 = registerItem("music_disc_sound_ror_t_mt", "ror_t_mt", 218, 6);
+    public static final Item SOUND_21 = registerItem("music_disc_sound_sol_amuyhay", "sol_amuyhay", 178, 6);
+    public static final Item SOUND_22 = registerItem("music_disc_sound_summer_breeze", "summer_breeze", 228, 6);
+    public static final Item SOUND_23 = registerItem("music_disc_sound_sun", "sun", 290, 6);
+    public static final Item SOUND_24 = registerItem("music_disc_sound_tanboi", "tanboi", 200, 6);
+    public static final Item SOUND_25 = registerItem("music_disc_sound_thank_you", "thank_you", 202, 6);
+    public static final Item SOUND_26 = registerItem("music_disc_sound_w_r_u", "w_r_u", 270, 6);
+    public static final Item SOUND_27 = registerItem("music_disc_sound_where_is_our_blue", "where_is_our_blue", 200, 6);
+    public static final Item SOUND_28 = registerItem("music_disc_sound_whisper_whisper_whisper", "whisper_whisper_whisper", 128, 6);
+    public static final Item SOUND_29 = registerItem("music_disc_sound_wingneeorkpaiduaykwamwaimug", "wingneeorkpaiduaykwamwaimug", 252, 6);
+    ////////////////// SOUND ///////////////////
     public static final Item DMS_01 = registerItem("music_disc_dms_01", "dms_01", 153, 6);
     public static final Item DMS_02 = registerItem("music_disc_dms_02", "dms_02", 153, 6);
     public static final Item DMS_03 = registerItem("music_disc_dms_03", "dms_03", 204, 6);
