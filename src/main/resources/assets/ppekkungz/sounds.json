@@ -1014,5 +1014,85 @@
         "stream": true
       }
     ]
+  },
+  "fire_middle_treeofsavior": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_middle_treeofsavior_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "fire_first_rag": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_first_rag_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "fire_end_rag": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_end_rag_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "fire_siestita": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_siestita",
+        "stream": true
+      }
+    ]
+  },
+  "fire_dovelove": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_dovelove",
+        "stream": true
+      }
+    ]
+  },
+  "fire_yourlove": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_yourlove",
+        "stream": true
+      }
+    ]
+  },
+  "fire_honkyoku": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_honkyoku",
+        "stream": true
+      }
+    ]
+  },
+  "fire_saomeoorchestralmix": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_saomeoorchestralmix",
+        "stream": true
+      }
+    ]
+  },
+  "fire_minyosankyoku": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_minyosankyoku",
+        "stream": true
+      }
+    ]
+  },
+  "fire_girasol_quincasmoreira": {
+    "sounds": [
+      {
+        "name": "ppekkungz:fire_girasol_quincasmoreira",
+        "stream": true
+      }
+    ]
   }
 }

@@ -137,6 +137,20 @@ public class FcSoundRegistries {
     public static final Item SOUND_28 = registerItem("music_disc_sound_whisper_whisper_whisper", "whisper_whisper_whisper", 128, 6);
     public static final Item SOUND_29 = registerItem("music_disc_sound_wingneeorkpaiduaykwamwaimug", "wingneeorkpaiduaykwamwaimug", 252, 6);
     ////////////////// SOUND ///////////////////
+    ////////////////// FIRE ///////////////////
+    public static final Item FIRE_01 = registerItem("music_disc_fire_middle_treeofsavior", "fire_middle_treeofsavior", 266, 6);
+    public static final Item FIRE_02 = registerItem("music_disc_fire_first_rag", "fire_first_rag", 142, 6);
+    public static final Item FIRE_03 = registerItem("music_disc_fire_end_rag", "fire_end_rag", 35, 6);
+    public static final Item FIRE_04 = registerItem("music_disc_fire_siestita", "fire_siestita", 160, 6);
+    public static final Item FIRE_05 = registerItem("music_disc_fire_dovelove", "fire_dovelove", 182, 6);
+    public static final Item FIRE_06 = registerItem("music_disc_fire_yourlove", "fire_yourlove", 150, 6);
+    public static final Item FIRE_07 = registerItem("music_disc_fire_honkyoku", "fire_honkyoku", 155, 6);
+    public static final Item FIRE_08 = registerItem("music_disc_fire_saomeoorchestralmix", "fire_saomeoorchestralmix", 158, 6);
+    public static final Item FIRE_09 = registerItem("music_disc_fire_minyosankyoku", "fire_minyosankyoku", 158, 6);
+    public static final Item FIRE_10 = registerItem("music_disc_fire_girasol_quincasmoreira", "fire_girasol_quincasmoreira", 158, 6);
+
+    ////////////////// FIRE ///////////////////
+
     public static final Item DMS_01 = registerItem("music_disc_dms_01", "dms_01", 153, 6);
     public static final Item DMS_02 = registerItem("music_disc_dms_02", "dms_02", 153, 6);
     public static final Item DMS_03 = registerItem("music_disc_dms_03", "dms_03", 204, 6);
