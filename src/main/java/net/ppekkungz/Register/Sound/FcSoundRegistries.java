@@ -151,9 +151,21 @@ public class FcSoundRegistries {
 
     ////////////////// FIRE ///////////////////
 
+    // WIND
+    public static final Item WIND_01 = registerItem("music_disc_wind_01", "wind_01", 219, 7);
+    public static final Item WIND_02 = registerItem("music_disc_wind_02", "wind_02", 190, 7);
+    public static final Item WIND_03 = registerItem("music_disc_wind_03", "wind_03", 58, 7);
+    public static final Item WIND_04 = registerItem("music_disc_wind_04", "wind_04", 143, 7);
+    public static final Item WIND_05 = registerItem("music_disc_wind_05", "wind_05", 86, 7);
+    public static final Item WIND_06 = registerItem("music_disc_wind_06", "wind_06", 132, 7);
+    // WIND
+
     public static final Item DMS_01 = registerItem("music_disc_dms_01", "dms_01", 153, 6);
     public static final Item DMS_02 = registerItem("music_disc_dms_02", "dms_02", 153, 6);
     public static final Item DMS_03 = registerItem("music_disc_dms_03", "dms_03", 204, 6);
+
+
+
     private static Item registerItem(String item, String sound_file, int duration, int analog) {
         ResourceLocation id_sound = new ResourceLocation("ppekkungz", sound_file);
         SoundEvent sound = Registry.register(BuiltInRegistries.SOUND_EVENT, id_sound, SoundEvent.createVariableRangeEvent(id_sound));

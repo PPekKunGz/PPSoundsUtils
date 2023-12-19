@@ -1094,5 +1094,53 @@
         "stream": true
       }
     ]
+  },
+  "wind_01": {
+    "sounds": [
+      {
+        "name": "ppekkungz:wind_01_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "wind_02": {
+    "sounds": [
+      {
+        "name": "ppekkungz:wind_02_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "wind_03": {
+    "sounds": [
+      {
+        "name": "ppekkungz:wind_03_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "wind_04": {
+    "sounds": [
+      {
+        "name": "ppekkungz:wind_04_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "wind_05": {
+    "sounds": [
+      {
+        "name": "ppekkungz:wind_05_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "wind_06": {
+    "sounds": [
+      {
+        "name": "ppekkungz:wind_06_music_sound",
+        "stream": true
+      }
+    ]
   }
 }
