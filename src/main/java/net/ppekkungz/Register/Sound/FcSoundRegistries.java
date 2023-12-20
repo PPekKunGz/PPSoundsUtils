@@ -160,6 +160,22 @@ public class FcSoundRegistries {
     public static final Item WIND_06 = registerItem("music_disc_wind_06", "wind_06", 132, 7);
     // WIND
 
+    // LIFE
+    public static final Item LIFE_01 = registerItem("music_disc_life_01", "life1_01", 138, 7);
+    public static final Item LIFE_02 = registerItem("music_disc_life_02", "life1_02", 127, 7);
+    public static final Item LIFE_03 = registerItem("music_disc_life_03", "life1_03", 169, 7);
+    public static final Item LIFE_04 = registerItem("music_disc_life_04", "life1_04", 142, 7);
+    public static final Item LIFE_05 = registerItem("music_disc_life_05", "life1_05", 149, 7);
+    public static final Item LIFE_06 = registerItem("music_disc_life_06", "life1_06", 176, 7);
+    public static final Item LIFE_07 = registerItem("music_disc_life_07", "life1_07", 186, 7);
+    public static final Item LIFE_08 = registerItem("music_disc_life_08", "life1_08", 147, 7);
+    public static final Item LIFE_09 = registerItem("music_disc_life_09", "life1_09", 168, 7);
+    public static final Item LIFE_10 = registerItem("music_disc_life_10", "life1_10", 117, 7);
+    public static final Item LIFE_11 = registerItem("music_disc_life_11", "life1_11", 165, 7);
+    public static final Item LIFE_12 = registerItem("music_disc_life_12", "life1_12", 97, 7);
+    public static final Item LIFE_13 = registerItem("music_disc_life_13", "life1_13", 179, 7);
+    // WIND
+
     // LIGHT
     public static final Item LIGHT_01 = registerItem("music_disc_light_01", "light_01", 120, 7);
     public static final Item LIGHT_02 = registerItem("music_disc_light_02", "light_02", 572, 7);

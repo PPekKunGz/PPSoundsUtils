@@ -1206,5 +1206,109 @@
         "stream": true
       }
     ]
+  },
+  "life1_01": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_01_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_02": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_02_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_03": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_03_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_04": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_04_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_05": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_05_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_06": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_06_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_07": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_07_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_08": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_08_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_09": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_09_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_10": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_10_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_11": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_11_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_12": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_12_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "life1_13": {
+    "sounds": [
+      {
+        "name": "ppekkungz:life_13_music_sound",
+        "stream": true
+      }
+    ]
   }
 }
