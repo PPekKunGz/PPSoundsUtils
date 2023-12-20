@@ -137,13 +137,20 @@ public class FcItemGroup {
                 output.accept(FcSoundRegistries.FIRE_08);
                 output.accept(FcSoundRegistries.FIRE_09);
                 output.accept(FcSoundRegistries.FIRE_10);
-
                 output.accept(FcSoundRegistries.WIND_01);
                 output.accept(FcSoundRegistries.WIND_02);
                 output.accept(FcSoundRegistries.WIND_03);
                 output.accept(FcSoundRegistries.WIND_04);
                 output.accept(FcSoundRegistries.WIND_05);
                 output.accept(FcSoundRegistries.WIND_06);
+                output.accept(FcSoundRegistries.LIGHT_01);
+                output.accept(FcSoundRegistries.LIGHT_02);
+                output.accept(FcSoundRegistries.LIGHT_03);
+                output.accept(FcSoundRegistries.LIGHT_04);
+                output.accept(FcSoundRegistries.LIGHT_05);
+                output.accept(FcSoundRegistries.LIGHT_06);
+                output.accept(FcSoundRegistries.LIGHT_07);
+                output.accept(FcSoundRegistries.LIGHT_08);
             })
             .build());
 

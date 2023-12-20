@@ -1142,5 +1142,69 @@
         "stream": true
       }
     ]
+  },
+  "light_01": {
+    "sounds": [
+      {
+        "name": "ppekkungz:light_01_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "light_02": {
+    "sounds": [
+      {
+        "name": "ppekkungz:light_02_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "light_03": {
+    "sounds": [
+      {
+        "name": "ppekkungz:light_03_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "light_04": {
+    "sounds": [
+      {
+        "name": "ppekkungz:light_04_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "light_05": {
+    "sounds": [
+      {
+        "name": "ppekkungz:light_05_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "light_06": {
+    "sounds": [
+      {
+        "name": "ppekkungz:light_06_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "light_07": {
+    "sounds": [
+      {
+        "name": "ppekkungz:light_07_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "light_08": {
+    "sounds": [
+      {
+        "name": "ppekkungz:light_08_music_sound",
+        "stream": true
+      }
+    ]
   }
 }

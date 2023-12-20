@@ -160,6 +160,18 @@ public class FcSoundRegistries {
     public static final Item WIND_06 = registerItem("music_disc_wind_06", "wind_06", 132, 7);
     // WIND
 
+    // LIGHT
+    public static final Item LIGHT_01 = registerItem("music_disc_light_01", "light_01", 120, 7);
+    public static final Item LIGHT_02 = registerItem("music_disc_light_02", "light_02", 572, 7);
+    public static final Item LIGHT_03 = registerItem("music_disc_light_03", "light_03", 559, 7);
+    public static final Item LIGHT_04 = registerItem("music_disc_light_04", "light_04", 123, 7);
+    public static final Item LIGHT_05 = registerItem("music_disc_light_05", "light_05", 655, 7);
+    public static final Item LIGHT_06 = registerItem("music_disc_light_06", "light_06", 1579, 7);
+    public static final Item LIGHT_07 = registerItem("music_disc_light_07", "light_07", 80, 7);
+    public static final Item LIGHT_08 = registerItem("music_disc_light_08", "light_08", 1877, 7);
+
+    // LIGHT
+
     public static final Item DMS_01 = registerItem("music_disc_dms_01", "dms_01", 153, 6);
     public static final Item DMS_02 = registerItem("music_disc_dms_02", "dms_02", 153, 6);
     public static final Item DMS_03 = registerItem("music_disc_dms_03", "dms_03", 204, 6);
