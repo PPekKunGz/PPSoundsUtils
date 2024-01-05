@@ -188,6 +188,13 @@ public class FcSoundRegistries {
 
     // LIGHT
 
+    // DIRT
+    public static final Item DIRT_01 = registerItem("music_disc_dirt_1", "dirt1_1", 60, 8);
+    public static final Item DIRT_02 = registerItem("music_disc_dirt_2", "dirt1_2", 201, 8);
+    public static final Item DIRT_03 = registerItem("music_disc_dirt_3", "dirt1_3", 175, 8);
+
+    // DIRT
+
     public static final Item DMS_01 = registerItem("music_disc_dms_01", "dms_01", 153, 6);
     public static final Item DMS_02 = registerItem("music_disc_dms_02", "dms_02", 153, 6);
     public static final Item DMS_03 = registerItem("music_disc_dms_03", "dms_03", 204, 6);

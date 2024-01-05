@@ -1310,5 +1310,29 @@
         "stream": true
       }
     ]
+  },
+  "dirt1_1": {
+    "sounds": [
+      {
+        "name": "ppekkungz:dirt_1_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "dirt1_2": {
+    "sounds": [
+      {
+        "name": "ppekkungz:dirt_2_music_sound",
+        "stream": true
+      }
+    ]
+  },
+  "dirt1_3": {
+    "sounds": [
+      {
+        "name": "ppekkungz:dirt_3_music_sound",
+        "stream": true
+      }
+    ]
   }
 }
