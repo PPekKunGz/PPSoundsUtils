@@ -1334,5 +1334,14 @@
         "stream": true
       }
     ]
+  },
+  "main_sound": {
+    "sounds": [
+      {
+        "name": "ppekkungz:main_sound_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
   }
 }

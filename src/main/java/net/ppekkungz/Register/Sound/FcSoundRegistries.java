@@ -12,6 +12,7 @@ import net.ppekkungz.PPSoundsUtils;
 
 public class FcSoundRegistries {
 
+    public static final Item MAIN_SOUND_END = registerItem("music_disc_main_sound", "main_sound", 127, 6);
     public static final Item WHY_SONG = registerItem("music_disc_why_cover", "why_cover", 155, 6);
     public static final Item MYSTERIOUS_SONG = registerItem("music_disc_mysterious", "mysterious", 90, 6);
     public static final Item BUDDIES_SONG = registerItem("music_disc_buddies", "buddies", 270, 6);
