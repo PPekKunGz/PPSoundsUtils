@@ -1,0 +1,10 @@
+{
+  "dms_01": {
+    "sounds": [
+      {
+        "name": "dimension:dms_01",
+        "stream": true
+      }
+    ]
+  }
+}
