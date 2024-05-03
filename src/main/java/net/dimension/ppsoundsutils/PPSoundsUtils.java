@@ -36,8 +36,7 @@ import static net.minecraftforge.versions.forge.ForgeVersion.MOD_ID;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(PPSoundsUtils.MODID)
-public class PPSoundsUtils
-{
+public class PPSoundsUtils {
     public static final String MODID = "ppsoundsutils";
     private static final Logger LOGGER = LogUtils.getLogger();
     public PPSoundsUtils() {
@@ -56,12 +55,6 @@ public class PPSoundsUtils
 
     private void commonSetup(final FMLCommonSetupEvent event) {
     }
-
-//    private void addCreative(BuildCreativeModeTabContentsEvent event) {
-//        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-//            event.accept(ItemsRegister.TEST);
-//        }
-//    }
 
     @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
     public static class ClientModEvent {

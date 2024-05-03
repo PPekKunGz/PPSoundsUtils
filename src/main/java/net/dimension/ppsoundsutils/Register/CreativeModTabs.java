@@ -25,17 +25,8 @@ public class CreativeModTabs {
                     })
                     .build());
 
-
-
-
     public static void register(IEventBus eventBus) {
         CREATIVE_MODE_TABS.register(eventBus);
     }
-    private static ItemStack HeadModel() {
-        var itemStack = new ItemStack(Items.PLAYER_HEAD);
-        var compoundTag = new CompoundTag();
-        compoundTag.putString("SkullOwner", "A_lices");
-        itemStack.setTag(compoundTag);
-        return itemStack;
-    }
+
 }

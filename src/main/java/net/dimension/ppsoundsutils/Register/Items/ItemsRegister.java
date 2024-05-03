@@ -20,10 +20,7 @@ public class ItemsRegister {
     public static final RegistryObject<Item> TEST = ITEMS.register("test",
             () -> new Item(new Item.Properties().stacksTo(1)));
     public static final RegistryObject<Item> MUSIC_DISC_DMS = ITEMS.register("music_disc_dms_01",
-            () -> new RecordItem(13, SoundRegistries.DIMENSION_DISC, (new Item.Properties()).stacksTo(1).rarity(Rarity.RARE), 149));
-
-
-
+            () -> new RecordItem(13, SoundRegistries.DIMENSION_DISC, (new Item.Properties()).stacksTo(1), 4480));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

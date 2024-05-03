@@ -15,11 +15,8 @@ public class SoundRegistries {
 
     public static final RegistryObject<SoundEvent> DIMENSION_DISC = registerSoundEvents("dms_01");
 
-
-
-
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
-        return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(PPSoundsUtils.MODID, name)));
+        return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("dimension", name)));
     }
 
     public static void register(IEventBus eventBus) {
