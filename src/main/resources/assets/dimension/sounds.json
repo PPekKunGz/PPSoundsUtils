@@ -3,7 +3,422 @@
     "sounds": [
       {
         "name": "dimension:dms_01",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_1_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_1_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_2_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_2_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_3_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_3_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_4_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_4_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_5_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_5_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_6_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_6_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_7_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_7_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_8_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_8_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_9_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_9_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_10_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_10_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_11_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_11_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_12_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_12_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_13_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_13_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_14_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_14_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "night_15_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:night_15_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_1_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_1_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_2_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_2_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_3_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_3_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_4_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_4_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_5_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_5_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_6_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_6_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_7_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_7_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_8_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_8_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_9_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_9_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_10_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_10_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_11_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_11_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_12_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_12_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_13_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_13_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "moning_14_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:moning_14_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_1_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_1_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_2_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_2_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_3_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_3_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_4_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_4_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_5_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_5_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_6_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_6_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_7_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_7_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_8_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_8_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_9_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_9_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_10_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_10_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_11_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_11_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_12_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_12_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_13_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_13_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_14_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_14_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_15_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_15_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_16_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_16_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "club_17_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:club_17_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
       }
     ]
   }
