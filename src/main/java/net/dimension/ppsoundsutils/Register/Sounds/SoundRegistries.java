@@ -14,6 +14,7 @@ public class SoundRegistries {
             DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, PPSoundsUtils.MODID);
 
     public static final RegistryObject<SoundEvent> DIMENSION_DISC = registerSoundEvents("dms_01");
+    public static final RegistryObject<SoundEvent> DMS_02 = registerSoundEvents("dms_02");
     public static final RegistryObject<SoundEvent> NIGHT_1 = registerSoundEvents("night_1_music_sound");
     public static final RegistryObject<SoundEvent> NIGHT_2 = registerSoundEvents("night_2_music_sound");
     public static final RegistryObject<SoundEvent> NIGHT_3 = registerSoundEvents("night_3_music_sound");
@@ -64,6 +65,9 @@ public class SoundRegistries {
     public static final RegistryObject<SoundEvent> CLUB_15 = registerSoundEvents("club_15_music_sound");
     public static final RegistryObject<SoundEvent> CLUB_16 = registerSoundEvents("club_16_music_sound");
     public static final RegistryObject<SoundEvent> CLUB_17 = registerSoundEvents("club_17_music_sound");
+
+    public static final RegistryObject<SoundEvent> OMAKASE_1 = registerSoundEvents("omakase_1_music_sound");
+    public static final RegistryObject<SoundEvent> OMAKASE_2 = registerSoundEvents("omakase_2_music_sound");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("dimension", name)));

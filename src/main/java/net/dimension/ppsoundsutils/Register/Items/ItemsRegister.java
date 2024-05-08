@@ -118,6 +118,13 @@ public class ItemsRegister {
     public static final RegistryObject<Item> MUSIC_DISC_CLUB_17 = ITEMS.register("music_disc_club_17",
             () -> new RecordItem(13, SoundRegistries.CLUB_17, (new Item.Properties()).stacksTo(1), 3778));
 
+    public static final RegistryObject<Item> MUSIC_DISC_DMS_02 = ITEMS.register("music_disc_dms_02",
+            () -> new RecordItem(13, SoundRegistries.DMS_02, (new Item.Properties()).stacksTo(1), 4387));
+    public static final RegistryObject<Item> MUSIC_DISC_OMAKASE_1 = ITEMS.register("music_disc_omakase_1",
+            () -> new RecordItem(13, SoundRegistries.OMAKASE_1, (new Item.Properties()).stacksTo(1), 3060));
+    public static final RegistryObject<Item> MUSIC_DISC_OMAKASE_2 = ITEMS.register("music_disc_omakase_2",
+            () -> new RecordItem(13, SoundRegistries.OMAKASE_2, (new Item.Properties()).stacksTo(1), 3165));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

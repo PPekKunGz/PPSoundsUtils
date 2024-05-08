@@ -421,5 +421,32 @@
         "attenuation_distance": 12
       }
     ]
+  },
+  "omakase_1_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:omakase_1_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "omakase_2_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:omakase_2_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "dms_02": {
+    "sounds": [
+      {
+        "name": "dimension:dms_02",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
   }
 }

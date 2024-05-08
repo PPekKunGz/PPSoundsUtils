@@ -68,6 +68,9 @@ public class CreativeModTabs {
                         pOutput.accept(ItemsRegister.MUSIC_DISC_CLUB_15.get());
                         pOutput.accept(ItemsRegister.MUSIC_DISC_CLUB_16.get());
                         pOutput.accept(ItemsRegister.MUSIC_DISC_CLUB_17.get());
+
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_OMAKASE_1.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_OMAKASE_2.get());
                     })
                     .build());
 
