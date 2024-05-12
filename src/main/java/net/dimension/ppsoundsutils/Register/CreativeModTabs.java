@@ -71,6 +71,17 @@ public class CreativeModTabs {
 
                         pOutput.accept(ItemsRegister.MUSIC_DISC_OMAKASE_1.get());
                         pOutput.accept(ItemsRegister.MUSIC_DISC_OMAKASE_2.get());
+
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_1.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_2.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_3.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_4.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_5.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_6.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_7.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_8.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_9.get());
+                        pOutput.accept(ItemsRegister.MUSIC_DISC_VAMPIRE_10.get());
                     })
                     .build());
 

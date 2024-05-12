@@ -448,5 +448,95 @@
         "attenuation_distance": 12
       }
     ]
+  },
+  "vampire_1_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_1_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "vampire_2_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_2_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "vampire_3_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_3_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "vampire_4_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_4_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "vampire_5_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_5_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "vampire_6_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_6_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "vampire_7_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_7_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "vampire_8_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_8_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "vampire_9_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_9_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "vampire_10_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:vampire_10_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
   }
 }

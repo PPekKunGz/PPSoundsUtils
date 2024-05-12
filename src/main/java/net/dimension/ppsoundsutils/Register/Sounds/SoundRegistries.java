@@ -69,6 +69,17 @@ public class SoundRegistries {
     public static final RegistryObject<SoundEvent> OMAKASE_1 = registerSoundEvents("omakase_1_music_sound");
     public static final RegistryObject<SoundEvent> OMAKASE_2 = registerSoundEvents("omakase_2_music_sound");
 
+    public static final RegistryObject<SoundEvent> VAMPIRE_1 = registerSoundEvents("vampire_1_music_sound");
+    public static final RegistryObject<SoundEvent> VAMPIRE_2 = registerSoundEvents("vampire_2_music_sound");
+    public static final RegistryObject<SoundEvent> VAMPIRE_3 = registerSoundEvents("vampire_3_music_sound");
+    public static final RegistryObject<SoundEvent> VAMPIRE_4 = registerSoundEvents("vampire_4_music_sound");
+    public static final RegistryObject<SoundEvent> VAMPIRE_5 = registerSoundEvents("vampire_5_music_sound");
+    public static final RegistryObject<SoundEvent> VAMPIRE_6 = registerSoundEvents("vampire_6_music_sound");
+    public static final RegistryObject<SoundEvent> VAMPIRE_7 = registerSoundEvents("vampire_7_music_sound");
+    public static final RegistryObject<SoundEvent> VAMPIRE_8 = registerSoundEvents("vampire_8_music_sound");
+    public static final RegistryObject<SoundEvent> VAMPIRE_9 = registerSoundEvents("vampire_9_music_sound");
+    public static final RegistryObject<SoundEvent> VAMPIRE_10 = registerSoundEvents("vampire_10_music_sound");
+
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("dimension", name)));
     }

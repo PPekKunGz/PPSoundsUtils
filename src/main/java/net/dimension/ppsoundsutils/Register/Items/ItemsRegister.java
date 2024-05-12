@@ -125,6 +125,27 @@ public class ItemsRegister {
     public static final RegistryObject<Item> MUSIC_DISC_OMAKASE_2 = ITEMS.register("music_disc_omakase_2",
             () -> new RecordItem(13, SoundRegistries.OMAKASE_2, (new Item.Properties()).stacksTo(1), 3165));
 
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_2 = ITEMS.register("music_disc_vampire_2",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_2, (new Item.Properties()).stacksTo(1), 1486));
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_7 = ITEMS.register("music_disc_vampire_7",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_7, (new Item.Properties()).stacksTo(1), 4262));
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_9 = ITEMS.register("music_disc_vampire_9",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_9, (new Item.Properties()).stacksTo(1), 3010));
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_3 = ITEMS.register("music_disc_vampire_3",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_3, (new Item.Properties()).stacksTo(1), 1922));
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_8 = ITEMS.register("music_disc_vampire_8",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_8, (new Item.Properties()).stacksTo(1), 2944));
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_10 = ITEMS.register("music_disc_vampire_10",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_10, (new Item.Properties()).stacksTo(1), 2386));
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_4 = ITEMS.register("music_disc_vampire_4",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_4, (new Item.Properties()).stacksTo(1), 3803));
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_5 = ITEMS.register("music_disc_vampire_5",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_5, (new Item.Properties()).stacksTo(1), 5332));
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_6 = ITEMS.register("music_disc_vampire_6",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_6, (new Item.Properties()).stacksTo(1), 2152));
+    public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_1 = ITEMS.register("music_disc_vampire_1",
+            () -> new RecordItem(13, SoundRegistries.VAMPIRE_1, (new Item.Properties()).stacksTo(1), 4849));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
