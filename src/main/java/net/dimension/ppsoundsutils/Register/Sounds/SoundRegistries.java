@@ -80,6 +80,18 @@ public class SoundRegistries {
     public static final RegistryObject<SoundEvent> VAMPIRE_9 = registerSoundEvents("vampire_9_music_sound");
     public static final RegistryObject<SoundEvent> VAMPIRE_10 = registerSoundEvents("vampire_10_music_sound");
 
+    public static final RegistryObject<SoundEvent> WEREWOLF_1 = registerSoundEvents("werewolf_1_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_2 = registerSoundEvents("werewolf_2_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_3 = registerSoundEvents("werewolf_3_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_4 = registerSoundEvents("werewolf_4_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_5 = registerSoundEvents("werewolf_5_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_6 = registerSoundEvents("werewolf_6_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_7 = registerSoundEvents("werewolf_7_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_8 = registerSoundEvents("werewolf_8_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_9 = registerSoundEvents("werewolf_9_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_10 = registerSoundEvents("werewolf_10_music_sound");
+    public static final RegistryObject<SoundEvent> WEREWOLF_11 = registerSoundEvents("werewolf_11_music_sound");
+
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("dimension", name)));
     }

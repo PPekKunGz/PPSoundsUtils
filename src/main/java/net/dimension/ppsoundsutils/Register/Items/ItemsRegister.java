@@ -146,6 +146,29 @@ public class ItemsRegister {
     public static final RegistryObject<Item> MUSIC_DISC_VAMPIRE_1 = ITEMS.register("music_disc_vampire_1",
             () -> new RecordItem(13, SoundRegistries.VAMPIRE_1, (new Item.Properties()).stacksTo(1), 4849));
 
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_1 = ITEMS.register("music_disc_werewolf_1",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_1, (new Item.Properties()).stacksTo(1), 4149));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_10 = ITEMS.register("music_disc_werewolf_10",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_10, (new Item.Properties()).stacksTo(1), 3552));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_11 = ITEMS.register("music_disc_werewolf_11",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_11, (new Item.Properties()).stacksTo(1), 2722));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_5 = ITEMS.register("music_disc_werewolf_5",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_5, (new Item.Properties()).stacksTo(1), 3130));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_7 = ITEMS.register("music_disc_werewolf_7",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_7, (new Item.Properties()).stacksTo(1), 2676));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_3 = ITEMS.register("music_disc_werewolf_3",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_3, (new Item.Properties()).stacksTo(1), 2772));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_9 = ITEMS.register("music_disc_werewolf_9",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_9, (new Item.Properties()).stacksTo(1), 2640));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_8 = ITEMS.register("music_disc_werewolf_8",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_8, (new Item.Properties()).stacksTo(1), 3202));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_2 = ITEMS.register("music_disc_werewolf_2",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_2, (new Item.Properties()).stacksTo(1), 2665));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_6 = ITEMS.register("music_disc_werewolf_6",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_6, (new Item.Properties()).stacksTo(1), 2983));
+    public static final RegistryObject<Item> MUSIC_DISC_WEREWOLF_4 = ITEMS.register("music_disc_werewolf_4",
+            () -> new RecordItem(13, SoundRegistries.WEREWOLF_4, (new Item.Properties()).stacksTo(1), 2458));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

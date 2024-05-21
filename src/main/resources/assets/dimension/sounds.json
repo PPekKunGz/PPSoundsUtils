@@ -538,5 +538,104 @@
         "attenuation_distance": 12
       }
     ]
+  },
+  "werewolf_1_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_1_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_2_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_2_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_3_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_3_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_4_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_4_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_5_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_5_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_6_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_6_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_7_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_7_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_8_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_8_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_9_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_9_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_10_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_10_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "werewolf_11_music_sound": {
+    "sounds": [
+      {
+        "name": "dimension:werewolf_11_music_sound",
+        "stream": true,
+        "attenuation_distance": 12
+      }
+    ]
   }
 }
