@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "fscsoundutils",
+  "version": "${version}",
+  "name": "FSCSoundUtils",
+  "description": "Make for FriendsCraft High School Roleplay.",
+  "authors": [
+    "@Dimension Studio"
+  ],
+  "contact": {
+    "sources": "https://dimension-studio.net",
+    "email": "mc.dimension.studio@gmail.com"
+  },
+  "license": "MIT",
+  "icon": "assets/ppekkungz/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.dimension.soundutils.PPSoundsUtilsClient"
+    ],
+    "main": [
+      "net.dimension.soundutils.PPSoundsUtils"
+    ]
+  },
+  "mixins": [
+    "fscsoundutils.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

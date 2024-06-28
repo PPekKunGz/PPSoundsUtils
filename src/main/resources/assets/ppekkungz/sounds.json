@@ -1,0 +1,173 @@
+{
+  "main_1_music_sound": {
+    "sounds": [
+      {
+        "name": "ppekkungz:main_1_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "party_1_music_sound": {
+    "sounds": [
+      {
+        "name": "ppekkungz:party_1_music_sound",
+        "stream": true,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "party_2_music_sound": {
+    "sounds": [
+      {
+        "name": "ppekkungz:party_2_music_sound",
+        "stream": true,
+        "attenuation_distance": 50
+      }
+    ]
+  },
+  "coyotehearing": {
+    "sounds": [
+      {
+        "name": "ppekkungz:coyotehearing_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "englishcountrygarden": {
+    "sounds": [
+      {
+        "name": "ppekkungz:englishcountrygarden_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "esjammyjams": {
+    "sounds": [
+      {
+        "name": "ppekkungz:esjammyjams_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "ha_cxdy": {
+    "sounds": [
+      {
+        "name": "ppekkungz:ha_cxdy_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "happyhaunts": {
+    "sounds": [
+      {
+        "name": "ppekkungz:happyhaunts_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "horsestrains": {
+    "sounds": [
+      {
+        "name": "ppekkungz:horsestrains_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "magicaldirt": {
+    "sounds": [
+      {
+        "name": "ppekkungz:magicaldirt_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "magicalgravity": {
+    "sounds": [
+      {
+        "name": "ppekkungz:magicalgravity_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "magicaltriumph": {
+    "sounds": [
+      {
+        "name": "ppekkungz:magicaltriumph_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "orphan": {
+    "sounds": [
+      {
+        "name": "ppekkungz:orphan_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "pooka": {
+    "sounds": [
+      {
+        "name": "ppekkungz:pooka_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "readysetgo": {
+    "sounds": [
+      {
+        "name": "ppekkungz:readysetgo_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "rightnow": {
+    "sounds": [
+      {
+        "name": "ppekkungz:rightnow_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "theneworder": {
+    "sounds": [
+      {
+        "name": "ppekkungz:theneworder_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "tropicalthunder": {
+    "sounds": [
+      {
+        "name": "ppekkungz:tropicalthunder_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  },
+  "waltztodeath": {
+    "sounds": [
+      {
+        "name": "ppekkungz:waltztodeath_music_sound",
+        "stream": true,
+        "attenuation_distance": 120
+      }
+    ]
+  }
+}
